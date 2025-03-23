@@ -1,4 +1,4 @@
-# Doodle Craft
+# DoodlesCraft
 
 Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web inspirada no site Artstation.
 
